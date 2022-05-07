@@ -8,7 +8,6 @@ AckMode
   MANUAL					# listener负责ack，但是背后也是批量上去
   MANUAL_IMMEDIATE		# listner负责ack，每调用一次，就立即commit
 
-   ~~~~
 
 # 延伸阅读
 
